@@ -1,1 +1,7 @@
-
+# Dolphin|G:\Emulator\Dolbin\Dolphin-x64\Dolphin.exe
+- Luigi's Mansion (USA)|G:\Emulator\Dolbin\Dolphin-x64\Games\Luigi's Mansion (USA).iso
++
+# Melon|G:\Emulator\melonDS\melonDS.exe
+- Kingdom Hearts - 358-2 Days (USA) (En,Fr)|G:\ROM folder\DS\Kingdom Hearts - 358-2 Days (USA) (En,Fr).nds
+- Mario Kart DS (USA) (En,Fr,De,Es,It)|G:\ROM folder\DS\Mario Kart DS (USA) (En,Fr,De,Es,It).sav
++
